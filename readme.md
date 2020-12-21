@@ -16,4 +16,4 @@ conda env create -f requirements.yaml
 ```
 python main.py
 ```
-5. Any further questions, reach me at taocao1@gmail.com
+4. Any further questions, reach me at taocao1@gmail.com
