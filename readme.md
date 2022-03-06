@@ -3,7 +3,7 @@ This repo is a demo of money laundering transaction detection model using a set 
 omitted as they are confidential. The code and instructions are presented below. 
 
 The challenge is the large amount of datasets needs to be processed within the resource constraints. Therefore, 
-PySpark is used to develop the model for parallel computing. The model can be successfully run on a typical laptop
+PySpark is used to develop the model for parallel computing. The model can successfully run on a typical laptop (8GB RAM)
 within 1 hour for dozens of GB data.
 
 # Instructions
